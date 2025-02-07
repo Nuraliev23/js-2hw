@@ -29,7 +29,7 @@ console.log(checkNumber(-8))
 console.log(checkNumber(0))
 */
 
-/*
+
 // ht-3
 
 function generateMultiplicationTable(num1){
@@ -41,8 +41,8 @@ function generateMultiplicationTable(num1){
 
 }
 
- generateMultiplicationTable(5)    
- */
+ generateMultiplicationTable(9)    
+ 
 
 /*
 // ht-4
@@ -62,9 +62,9 @@ function generateMultiplicationTable(num1){
 
 
 // ht - 5
-
+/*
 function century(num1){
     
     return num1 / 100
 }
-console.log(Math.ceil( century(101)))
+console.log(Math.ceil( century(101)))*/
